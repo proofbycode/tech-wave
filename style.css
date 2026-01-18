@@ -26,3 +26,10 @@ animation: move 5s ease-in-out infinite;
 .btn:hover{
     animation: none;
 }
+
+.hero{
+    background-image: url(./assets/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
