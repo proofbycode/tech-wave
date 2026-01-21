@@ -32,5 +32,10 @@ animation: move 5s ease-in-out infinite;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    width: 100%;
 }
 
+footer{
+    background-image: url(./assets/footer-bg.png);
+    background-position: center;
+}
